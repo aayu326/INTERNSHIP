@@ -4,7 +4,7 @@
 This is a responsive and elegant **Portfolio Website** built using **HTML, CSS, and JavaScript** to showcase personal information, skills, projects, and contact details. It is ideal for developers, freelancers, and job seekers.
 
 ## 🌐 Live Website
-https://aayuportfolio.netlify.app/
+https://task02326.netlify.app/
 
 ## 👤 Author
 **Satyesh Kumar Singh**  
