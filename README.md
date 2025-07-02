@@ -1,4 +1,4 @@
-# INTERNSHIP
+# TASK-01
 # 💼 Personal Portfolio Website
 
 This is a responsive and elegant **Portfolio Website** built using **HTML, CSS, and JavaScript** to showcase personal information, skills, projects, and contact details. It is ideal for developers, freelancers, and job seekers.
